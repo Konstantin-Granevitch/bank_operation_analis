@@ -1,7 +1,8 @@
-import pandas as pd
-
-from pandas import DataFrame
 from pprint import pprint
+
+import pandas as pd
+from pandas import DataFrame
+
 
 def xlsx_reader(file_name: str) -> DataFrame:
     """функция чтения данных из таблицы xlsx"""
@@ -10,5 +11,6 @@ def xlsx_reader(file_name: str) -> DataFrame:
 
     return result
 
-if __name__ == '__main__':
-    pprint(xlsx_reader("operations.xlsx").to_dict('records'))
+
+if __name__ == "__main__":
+    pprint(xlsx_reader("operations.xlsx").to_dict("records"))

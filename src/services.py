@@ -20,7 +20,7 @@ def finder(list_transactions: list[dict], attribute: str) -> str:
 def tel_finder(list_transactions: list[dict]) -> str:
     """Функция поиска транзакций в описании которых присутствуют телефонные номера"""
 
-    tel_number = re.compile(r'[+]\d\s\d{3}.\d{2}.\d{2}')
+    tel_number = re.compile(r"[+]\d\s\d{3}.\d{2}.\d{2}")
     result = []
 
     for transaction in list_transactions:
