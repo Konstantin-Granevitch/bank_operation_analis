@@ -1,5 +1,8 @@
 import json
 import re
+from pprint import pprint
+
+from src.utils import xlsx_reader
 
 
 def finder(list_transactions: list[dict], attribute: str) -> str:
@@ -31,3 +34,8 @@ def tel_finder(list_transactions: list[dict]) -> str:
         return "транзакции с телефонными номерами отсутствуют"
     else:
         return json.dumps(result, ensure_ascii=False)
+
+
+if __name__ == "__main__":
+    transactions = xlsx_reader("operations.xlsx").to_dict("records")
+    pprint(json.loads(tel_finder(transactions)))

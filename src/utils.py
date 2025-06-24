@@ -13,4 +13,5 @@ def xlsx_reader(file_name: str) -> DataFrame:
 
 
 if __name__ == "__main__":
+    # print(xlsx_reader("operations.xlsx").head())
     pprint(xlsx_reader("operations.xlsx").to_dict("records"))
