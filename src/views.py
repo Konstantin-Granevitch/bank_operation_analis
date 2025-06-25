@@ -88,5 +88,5 @@ def main_views(user_date: str, interval: str = "M") -> str:
 if __name__ == "__main__":
     # list_transactions = xlsx_reader("operations.xlsx").to_dict('records')
     # pprint(main_views("01.01.2018"))
-    # print(api_currency("user_settings.json"))
-    pprint(api_stoks("user_settings.json"))
+    print(api_currency("user_settings.json"))
+    print(api_stoks("user_settings.json"))
