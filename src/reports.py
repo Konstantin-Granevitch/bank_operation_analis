@@ -1,10 +1,12 @@
 import datetime
 import json
+from functools import wraps
 from typing import Any, Callable, Optional
 
 from dateutil.relativedelta import relativedelta
 from pandas import DataFrame
 
+from config import BASE_PATH
 from src.utils import xlsx_reader
 
 CUR_DATE = datetime.datetime.now().strftime("%d.%m.%Y")
@@ -17,10 +19,11 @@ def report_to_file(file_name: Optional = default_name) -> Callable:
     """декоратор для записи отчета в файл"""
 
     def decor(function: Callable) -> Callable:
+        @wraps(function)
         def wrapper(*args: Any, **kwargs: Any) -> Any:
             result = function(*args, **kwargs)
 
-            with open("../data/" + file_name, "w") as f:
+            with open(f"{BASE_PATH}/data/{file_name}", "w") as f:
                 json.dump(result, f, ensure_ascii=False)
 
             return result
