@@ -38,4 +38,4 @@ def tel_finder(list_transactions: list[dict]) -> str:
 
 if __name__ == "__main__":
     transactions = xlsx_reader("operations.xlsx").to_dict("records")
-    pprint(json.loads(tel_finder(transactions)))
+    pprint(json.loads(finder(transactions, "*5091")))
