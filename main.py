@@ -5,7 +5,7 @@ from typing import Any
 
 from config import BASE_PATH
 from src.utils import xlsx_reader
-from src.views import api_currency, api_stoks
+from src.views import api_currency, api_stocks
 
 current_date = datetime.datetime.now()
 
@@ -70,7 +70,7 @@ def main(date: str) -> Any:
     pprint(api_currency())
     print("---------------------------------")
     print("Текущий курс акций")
-    pprint(api_stoks())
+    pprint(api_stocks())
 
 
 if __name__ == "__main__":
