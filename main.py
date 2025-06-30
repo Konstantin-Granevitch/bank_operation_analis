@@ -56,19 +56,27 @@ def main(date: str) -> Any:
         info["Сумма операций"] = round(value, 2)
 
         if value < 0:
-            info["Кешбэк"] = round(value / 100, 2)
+            info["Кешбэк"] = abs(round(value / 100, 2))
         else:
             info["Кешбэк"] = 0
 
         cards_info.append(info)
         n += 1
+    # создание отсортированного списка транзакций для поиска топ 5 по сумме
+    top_transactions = sorted(list_transactions, key=lambda trans: trans["Сумма операции с округлением"], reverse=True)
+    print("Топ 5 транзакций по сумме операции")
+    pprint(top_transactions[:4])
 
     # распечатка текущих курсов валюты и акций согласно списка из файла пользователя user_settings.json
+    print("По каждой карте: сумма операции и кешбэк")
     pprint(cards_info)
-    print("---------------------------------")
+    print("--------------------------------------------------------")
+    print("Топ 5 транзакций по сумме операции")
+    pprint(top_transactions[:4])
+    print("--------------------------------------------------------")
     print("Текущий курс валют")
     pprint(api_currency())
-    print("---------------------------------")
+    print("--------------------------------------------------------")
     print("Текущий курс акций")
     pprint(api_stocks())
 
