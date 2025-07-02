@@ -1,0 +1,238 @@
+2025-06-28 23:00:37,195 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:00:37,195 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:00:38,166 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:00:38,166 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:00:38,212 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:00:38,212 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:00:38,212 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:00:38,212 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:00:38,212 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:00:38,212 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:00:38,213 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:00:38,213 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:00:40,805 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:00:40,805 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:00:40,805 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:00:40,805 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:00:40,806 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:00:40,806 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:00:40,807 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:00:40,807 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:02:21,750 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,750 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,750 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,750 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,753 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,754 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,754 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,754 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,754 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,755 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,756 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,756 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,756 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,756 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,757 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - обращение к функции - finder
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,759 - func_logger - INFO - функция - finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - обращение к функции - tel_finder
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,761 - func_logger - INFO - функция - tel_finder успешно отработала
+2025-06-28 23:02:21,764 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:02:21,764 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:02:21,768 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:02:21,768 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:02:21,768 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:02:21,768 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:02:21,768 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:02:21,768 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:02:21,769 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:02:21,769 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:02:21,769 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:02:21,769 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:02:21,771 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:02:21,771 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:02:21,771 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:02:21,771 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:02:21,771 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:02:21,771 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:02:21,772 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:02:21,772 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:02:21,772 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:02:21,772 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:08:53,060 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:08:53,060 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:08:54,103 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:08:54,103 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:08:54,152 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:08:54,152 - func_logger - INFO - обращение к функции - api_currency
+2025-06-28 23:08:54,152 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:08:54,152 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-28 23:08:54,152 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:08:54,152 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-28 23:08:54,153 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:08:54,153 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-28 23:08:54,828 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:08:54,828 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-28 23:08:54,828 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:08:54,828 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-28 23:08:54,828 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:08:54,828 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-28 23:08:54,830 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:08:54,830 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-28 23:11:13,496 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:11:13,496 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-28 23:11:14,519 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:11:14,519 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-28 23:11:14,524 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:11:14,524 - func_logger - INFO - обращение к функции - category_cost
+2025-06-28 23:11:14,566 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:11:14,566 - func_logger - INFO - обработка данных функцией - category_cost
+2025-06-28 23:11:14,603 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-28 23:11:14,603 - func_logger - INFO - вывод результатов функцией category_cost
+2025-06-30 18:00:42,682 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:00:42,682 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:00:43,711 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:00:43,711 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:00:43,760 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:00:43,760 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:00:43,760 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:00:43,760 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:00:43,760 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:00:43,760 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:00:43,761 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:00:43,761 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:00:46,549 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:00:46,549 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:00:46,549 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:00:46,549 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:00:46,549 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:00:46,549 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:00:46,551 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:00:46,551 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:02:59,928 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:02:59,928 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:03:00,913 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:03:00,913 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:03:00,960 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:03:00,960 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:03:00,960 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:03:00,960 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:03:00,960 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:03:00,960 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:03:00,961 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:03:00,961 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:03:01,522 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:03:01,522 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:03:01,522 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:03:01,522 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:03:01,522 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:03:01,522 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:03:01,523 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:03:01,523 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:16:14,567 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:16:14,567 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:16:15,542 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:16:15,542 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:16:15,590 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:16:15,590 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:16:15,591 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:16:15,591 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:16:15,591 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:16:15,591 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:16:15,591 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:16:15,591 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:16:16,521 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:16:16,521 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:16:16,522 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:16:16,522 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:16:16,522 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:16:16,522 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:16:16,524 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:16:16,524 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:19:29,688 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:19:29,688 - func_logger - INFO - обращение к функции - xlsx_reader
+2025-06-30 18:19:30,671 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:19:30,671 - func_logger - INFO - вывод DataFrame функцией - xlsx_reader
+2025-06-30 18:19:30,725 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:19:30,725 - func_logger - INFO - обращение к функции - api_currency
+2025-06-30 18:19:30,725 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:19:30,725 - func_logger - INFO - сбор данных для функции - api_currency из файла - user_settings.json
+2025-06-30 18:19:30,725 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:19:30,725 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_currency
+2025-06-30 18:19:30,726 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:19:30,726 - func_logger - INFO - вывод результатов функцией - api_currency
+2025-06-30 18:19:31,388 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:19:31,388 - func_logger - INFO - обращение к функции - api_stocks
+2025-06-30 18:19:31,388 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:19:31,388 - func_logger - INFO - сбор данных для функции - api_stocks из файла - user_settings.json
+2025-06-30 18:19:31,388 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:19:31,388 - func_logger - INFO - подготовка данных и формирование url запроса функцией - api_stocks
+2025-06-30 18:19:31,390 - func_logger - INFO - вывод результатов функцией - api_stocks
+2025-06-30 18:19:31,390 - func_logger - INFO - вывод результатов функцией - api_stocks
