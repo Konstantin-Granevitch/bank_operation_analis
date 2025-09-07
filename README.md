@@ -9,7 +9,7 @@
 ## Установка:
 
 Клонируйте репозиторий:
-```https://github.com/Konstantin-Granevitch/Course_work_3```
+```https://github.com/Konstantin-Granevitch/bank_operation_analis```
 
 ## Тестирование:
 
